@@ -1,0 +1,6 @@
+Execute Jupyter Notebook files in this order:
+1 - Beneficiary File Cleaning.ipynb
+2 - Outpatient File Cleaning.ipynb
+3 - Inpatient File Cleaning.ipynb
+4 - Demographics Based on ICD9.ipynb
+5 - Heat Mapping of Highest Claims Count and Highest Total Claims Cost using Google Maps API.ipynb
